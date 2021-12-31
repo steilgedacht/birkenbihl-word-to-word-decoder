@@ -1,0 +1,11 @@
+c:\users\benjamin bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\bin\Debug\Bergmann_Dekodierer.exe.config
+c:\users\benjamin bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\bin\Debug\Bergmann_Dekodierer.exe
+c:\users\benjamin bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\bin\Debug\Bergmann_Dekodierer.pdb
+c:\users\benjamin bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\obj\Debug\Bergmann_Dekodierer.Form1.resources
+c:\users\benjamin bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\obj\Debug\Bergmann_Dekodierer.Properties.Resources.resources
+c:\users\benjamin bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\obj\Debug\Bergmann_Dekodierer.csproj.GenerateResource.Cache
+c:\users\benjamin bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\obj\Debug\Bergmann_Dekodierer.csproj.CoreCompileInputs.cache
+c:\users\benjamin bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\obj\Debug\Bergmann_Dekodierer.exe
+c:\users\benjamin bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\obj\Debug\Bergmann_Dekodierer.pdb
+c:\users\benjamin bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\obj\Debug\Bergmann_Dekodierer.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin Bergmann\source\repos\Bergmann_Dekodierer\Bergmann_Dekodierer\obj\Debug\Bergmann_Dekodierer.Form2.resources
