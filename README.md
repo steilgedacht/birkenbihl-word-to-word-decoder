@@ -21,6 +21,9 @@ By clicking on "Decode" a new window pops up that shows the translated words:
 ![Bild2](https://user-images.githubusercontent.com/89748204/155029559-38a5cd45-34b8-42ae-b7c1-ed40b9fd45c9.png)
 
 If you want to find out which words are missing in your vocabulary list, then you can enter the "missing words mode".
-Here each word that is not found in the list is printed in the box below for you to translate and add to the box.
+Here each word that is not found in the list is printed in the box below for you to translate and add to the list.
+In the right box you then see the hole translated text.
 
 ![Bild3](https://user-images.githubusercontent.com/89748204/155029722-74288f92-10dc-4f22-b1c1-16b70be0bf5a.png)
+
+Happy learning!
